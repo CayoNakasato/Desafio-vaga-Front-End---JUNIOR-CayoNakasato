@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.containerTitle{
+    display: flex;
+    padding-left: 1rem;
+    font-size: 24px;
+    font-weight: 700;
+}

@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    width: 100%;
+    height: 80%;
+
+    gap: 2rem;
+    margin: 0 auto;
+    padding: 1rem;
+
+    border: 1px solid black;
+    border-radius: 5px;
+
+    background-color: antiquewhite;
+}
+
+.containerTitle{
+    display: flex;
+
+    width: 80%;
+
+    height: 2rem;
+
+    font-weight: 700;
+
+    border-bottom: 1px solid rgb(207, 207, 255);
+
+    color: rgb(46, 139, 170);
+}

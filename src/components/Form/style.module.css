@@ -1,0 +1,57 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1rem;
+    padding: 1rem;
+
+}
+
+.input{
+    width: 95%;
+    height: 1.5rem;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+.input:hover{
+    border: 1px solid lightblue;
+}
+
+.inputLabel{
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+}
+
+.inputParcel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 200;
+    gap: 10px;
+    width: 100%;
+}
+
+.numberOfParcel{
+    color: rgb(150, 150, 142);
+    font-size: 14px;
+}
+
+.btnSimulate{
+   width: 60%;
+   height: 1.5rem;
+   border-radius: 5px;
+   border: 1px solid black;
+}
+
+.btnSimulate:hover{
+    background-color: lightblue;
+}
+
+@media (min-width:1024px){
+
+    
+}
