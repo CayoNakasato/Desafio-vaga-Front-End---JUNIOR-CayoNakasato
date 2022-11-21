@@ -17,5 +17,6 @@ Neste projeto foram usados as seguintes tecnologias:
    ### yarn add yup
    ### yarn add @hookform/resolvers
  
-
-
+## Após intalar pode se iniciar o projeto com
+  ### yarn dev
+    ### As mudanças realizadas no código serão automaticamente refletidas no servidor local.
