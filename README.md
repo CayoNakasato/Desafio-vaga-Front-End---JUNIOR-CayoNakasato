@@ -13,9 +13,9 @@ Neste projeto foram usados as seguintes tecnologias:
 
 ## Ao clonar este repositório instale no yarn:
   ### Para instalar uso o comando yarn add  
-  """
-    yarn add react-hook-form
-    yarn add react-hook-form
-  """
+   ### yarn add react-hook-form
+   ### yarn add yup
+   ### yarn add @hookform/resolvers
+ 
 
 
