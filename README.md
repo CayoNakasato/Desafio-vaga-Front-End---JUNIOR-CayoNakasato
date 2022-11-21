@@ -19,4 +19,4 @@ Neste projeto foram usados as seguintes tecnologias:
  
 ## Após intalar pode se iniciar o projeto com
   ### yarn dev
-    ### As mudanças realizadas no código serão automaticamente refletidas no servidor local.
+  As mudanças realizadas no código serão automaticamente refletidas no servidor local.
